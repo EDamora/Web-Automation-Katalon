@@ -10,9 +10,7 @@ https://www.demoblaze.com/index.html
 
 ## Skenario Test
 <p><b>
--SignUp
--SignIn
--Purchase item sampai Payment
+SignUp // SignIn ---->> Purchase item sampai Payment
 </b></p>
 
 
