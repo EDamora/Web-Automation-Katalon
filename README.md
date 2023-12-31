@@ -9,8 +9,11 @@ https://www.demoblaze.com/index.html
 </b></p>
 
 ## Skenario Test
-** SignUp
-** SignIn
-** Purchase item sampai Payment
+<p><b>
+-SignUp
+-SignIn
+-Purchase item sampai Payment
+</b></p>
+
 
 
